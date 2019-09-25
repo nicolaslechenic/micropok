@@ -1,0 +1,9 @@
+# General
+.DS_Store
+
+# Lobby
+lobby/node_modules/*
+lobby/dist/*
+lobby/.DS_Store
+
+# API
